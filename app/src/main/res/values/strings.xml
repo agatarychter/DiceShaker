@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiceShaker</string>
+    <string name="first_dice_place">first dice place</string>
+    <string name="second_dice_place">second dice place</string>
+</resources>
